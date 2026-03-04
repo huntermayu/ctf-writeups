@@ -1,4 +1,4 @@
-# 🏴‍☠️ Capture The Flag (CTF) for Beginners: Your First Step into Hacking
+# Capture The Flag (CTF) for Beginners: Your First Step into Hacking
 
 ---
 
