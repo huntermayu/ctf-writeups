@@ -73,9 +73,3 @@ Many beginners confuse CTFs with real pentesting. Here's a simple comparison:
 - Everything else! Steganography, logic puzzles, programming
 - Example: Hidden messages in images, QR codes
 - Tools: Varies by challenge
-
----
-
-## 🛠️ **Essential Tools for CTF Beginners**
-
-### **Must-Have Tools:**
